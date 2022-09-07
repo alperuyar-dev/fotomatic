@@ -1,4 +1,4 @@
 # fotomatic
-First Responsive Website Project
+Responsive Website Project
 
 ## Live Code: https://fotomatic-responsive-alper.netlify.app/
